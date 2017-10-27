@@ -1,0 +1,19 @@
+{
+  "name": "ultritium-react",
+  "version": "0.0.1",
+  "description": "Ultritium react library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barumel/ultritium-react.git"
+  },
+  "author": "barumel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barumel/ultritium-react/issues"
+  },
+  "homepage": "https://github.com/barumel/ultritium-react#readme"
+}
