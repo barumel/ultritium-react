@@ -18,6 +18,8 @@
   "homepage": "https://github.com/barumel/ultritium-react#readme",
   "dependencies": {
     "axios": "^0.17.0",
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.4",
+    "react": "^16.0.0",
+    "react-router": "^4.2.0"
   }
 }
